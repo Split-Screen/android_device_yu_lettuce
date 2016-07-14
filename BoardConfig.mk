@@ -19,3 +19,6 @@ include device/yu/lettuce/board/*.mk
 
 # inherit from proprietary files
 -include vendor/yu/lettuce/BoardConfigVendor.mk
+
+# TWRP
+TW_THEME := portrait_hdpi
